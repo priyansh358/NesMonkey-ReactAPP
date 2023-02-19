@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/priyansh358/NesMonkey-ReactAPP.git/static/css/main.abd64e84.css",
+    "main.js": "/priyansh358/NesMonkey-ReactAPP.git/static/js/main.d03aabe7.js",
+    "static/js/787.9a748b14.chunk.js": "/priyansh358/NesMonkey-ReactAPP.git/static/js/787.9a748b14.chunk.js",
+    "index.html": "/priyansh358/NesMonkey-ReactAPP.git/index.html",
+    "main.abd64e84.css.map": "/priyansh358/NesMonkey-ReactAPP.git/static/css/main.abd64e84.css.map",
+    "main.d03aabe7.js.map": "/priyansh358/NesMonkey-ReactAPP.git/static/js/main.d03aabe7.js.map",
+    "787.9a748b14.chunk.js.map": "/priyansh358/NesMonkey-ReactAPP.git/static/js/787.9a748b14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.d03aabe7.js"
+  ]
+}
